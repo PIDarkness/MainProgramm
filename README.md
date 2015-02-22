@@ -1,7 +1,7 @@
-# main
-# 22.02.2015 Venanen Darkness PHP
-#start 
-/* Russian */
+###ReadmeFile###
+22.02.2015 Venanen Darkness PHP
+start
+##/* Russian */##
 
 PiStudioPHP - проект студии, работающей на PHP, позволяющей создовать PHP приложения;
 
@@ -12,7 +12,7 @@ PiStudioPHP - свободное программное обеспечение, 
 
 PiStudioPHP - свободно распростроняемая программ по лицензии GNU GPL - лицензия в файле LICENSE
 
-/* English */
+##/* English */##
 
 PiStudioPHP - project studio, working on PHP, allowing sozdovat PHP applications;
 
